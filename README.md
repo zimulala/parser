@@ -35,6 +35,7 @@ Suppose the forked repository is `https://github.com/your-repo/parser`.
 
     If some error is reported, you can ignore it and still edit the `go.mod` file manually.
 
+
 3. File a PR to TiDB.
 
 ### Step 3: Merge the PR about the parser to this repository
